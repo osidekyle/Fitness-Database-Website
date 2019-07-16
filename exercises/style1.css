@@ -11,7 +11,6 @@ body{
 ul{
     background-color: #2F4550;
     color:white;
-    text-align: justify;
     font-weight: 400;
     font-size: 100%;
     margin-left: 200px;
@@ -34,11 +33,10 @@ ul{
 ol{
     background-color: #2F4550;
     color:white;
-    text-align: justify;
     font-weight: 400;
     font-size: 100%;
-    margin-left: 120px;
-    margin-right: 120px;
+    margin-left: 350px;
+    margin-right: 350px;
     text-align:center;
 
 
@@ -81,10 +79,22 @@ p{
     margin-top: 70px;
 }
 a{
-    color:white
+    color:white;
+    text-align: center;
+    
 }
 input{
     text-align: left;
     font-size: 150%;
     margin-right:  100 px;
+}
+.link{
+    margin-left:400px;
+    margin-right:400px;
+    
+
+}
+.back{
+    margin-left: 300px;
+    margin-right: 300px;
 }

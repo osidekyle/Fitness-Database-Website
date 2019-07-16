@@ -26,8 +26,8 @@ ul{
     text-align: justify;
     font-weight: 400;
     font-size: 100%;
-    margin-left: 120px;
-    margin-right: 120px;
+    margin-left: 500px;
+    margin-right: 500px;
     text-align:center;
     float: none;
 }
@@ -92,7 +92,7 @@ a{
 input{
     text-align: left;
     font-size: 150%;
-    margin-right:  100 px;
+   
 
 }
 h2{
@@ -100,9 +100,4 @@ h2{
     margin-bottom: 0%;
     text-decoration-line: underline;
 }
-.title{
-    float: left;
-}
-.pic{
-    float: right;
-}
+
